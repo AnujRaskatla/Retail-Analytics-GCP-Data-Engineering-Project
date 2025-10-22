@@ -1,0 +1,3 @@
+database,datasource,tablename,loadtype,watermark,is_active,targetpath
+supplier-db,mysql-db,suppliers,Full Load,created_at,1,supplier
+supplier-db,mysql-db,product_suppliers,Incremental,last_updated,1,supplier
