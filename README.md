@@ -27,7 +27,6 @@ Transform raw retail data into actionable business insights using modern cloud-n
 - [Configuration](#-configuration)
 - [Deployment](#-deployment)
 - [Use Cases](#-use-cases)
-- [Contributing](#-contributing)
 - [License](#-license)
 - [Contact](#-contact)
 
@@ -175,8 +174,6 @@ gcp-retailer-datalake/
 ├── .gitignore                         # Git ignore patterns
 ├── requirements.txt                   # Python dependencies
 ├── cloudbuild.yaml                    # CI/CD configuration
-├── CONTRIBUTING.md                    # Contribution guidelines
-├── CHANGELOG.md                       # Version history
 │
 ├── workflows/                         # Airflow DAGs
 │   ├── parent_dag.py                 # Master orchestration DAG
@@ -204,13 +201,10 @@ gcp-retailer-datalake/
 │   └── __init__.py
 │
 ├── docs/                              # Documentation
-│   ├── architecture.md               # Architecture details
-│   ├── setup.md                      # Setup instructions
-│   └── api_reference.md              # API documentation
-│
-└── tests/                             # Unit tests
-    ├── __init__.py
-    └── test_ingestion.py             # Ingestion tests
+   ├── architecture.md               # Architecture details
+   ├── setup.md                      # Setup instructions
+   └── api_reference.md              # API documentation│
+      
 ```
 
 ---
@@ -560,19 +554,6 @@ This data lake architecture enables:
    - Pricing optimization
    - Supplier relationship management
 
----
-
-## 🤝 Contributing
-
-We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
-
-### How to Contribute
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ---
 
@@ -584,14 +565,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Your Name** - Data Engineer
+**Anuj Raskatla** - Data Engineer
 
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
-- 📧 Email: your.email@example.com
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- 💼 LinkedIn: [Anuj Raskatla](https://www.linkedin.com/in/anuj-raskatla/)
+- 🐙 GitHub: [@AnujRaskatla](https://github.com/AnujRaskatla)
+- 📧 Email: anuj.raskatla@gmail.com
+- 🌐 Portfolio: [Here](https://yourwebsite.com)
 
-**Project Link**: [https://github.com/yourusername/gcp-retailer-datalake](https://github.com/yourusername/gcp-retailer-datalake)
+**Project Link**: [Retail-Analytics-GCP-Data-Engineering-Project](https://github.com/AnujRaskatla/Retail-Analytics-GCP-Data-Engineering-Project)
 
 ---
 
