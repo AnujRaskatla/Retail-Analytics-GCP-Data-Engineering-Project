@@ -570,29 +570,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 💼 LinkedIn: [Anuj Raskatla](https://www.linkedin.com/in/anuj-raskatla/)
 - 🐙 GitHub: [@AnujRaskatla](https://github.com/AnujRaskatla)
 - 📧 Email: anuj.raskatla@gmail.com
-- 🌐 Portfolio: [Here](https://yourwebsite.com)
 
 **Project Link**: [Retail-Analytics-GCP-Data-Engineering-Project](https://github.com/AnujRaskatla/Retail-Analytics-GCP-Data-Engineering-Project)
-
----
-
-## 🙏 Acknowledgments
-
-- Google Cloud Platform documentation
-- Apache Spark community
-- Apache Airflow project
-- Open-source contributors
-
----
-
-## 📚 Additional Resources
-
-- [Google Cloud Documentation](https://cloud.google.com/docs)
-- [Apache Spark Documentation](https://spark.apache.org/docs/latest/)
-- [Apache Airflow Documentation](https://airflow.apache.org/docs/)
-- [BigQuery Best Practices](https://cloud.google.com/bigquery/docs/best-practices)
-
----
 
 ⭐ **If you find this project helpful, please consider giving it a star!**
 
