@@ -51,7 +51,7 @@ This project implements a **production-ready data lake architecture** on Google 
 
 ## 🏗️ Architecture
 
-![Architecture Diagram](docs/images/architecture-diagram.png)
+![Architecture Diagram](docs/Architechure.jpg)
 
 ### Data Flow
 
